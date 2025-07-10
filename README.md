@@ -47,6 +47,7 @@ CREATE TABLE Students (
     Course NVARCHAR(50),
     EnrollmentDate DATE
 );
+```
 <img width="3840" height="2160" alt="Screenshot (884)" src="https://github.com/user-attachments/assets/1e170892-7c7c-4109-82da-c207b2db50f6" />
 Main Page
 
